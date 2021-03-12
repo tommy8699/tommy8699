@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tommy8699
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning php, nette, laravel 
