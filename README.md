@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @tommy8699
+- 👋 Hi, I’m Tomas Hresko
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning php, nette, laravel, javascript
