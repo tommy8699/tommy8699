@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Tomas Hresko
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning php, nette,javascript
-- 🔐 All my Repositories are private for security reasons
+
